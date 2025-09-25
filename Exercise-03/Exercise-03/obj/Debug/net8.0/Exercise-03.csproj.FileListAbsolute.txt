@@ -1,0 +1,15 @@
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\bin\Debug\net8.0\Exercise-03.exe
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\bin\Debug\net8.0\Exercise-03.deps.json
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\bin\Debug\net8.0\Exercise-03.runtimeconfig.json
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\bin\Debug\net8.0\Exercise-03.dll
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\bin\Debug\net8.0\Exercise-03.pdb
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.AssemblyInfoInputs.cache
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.AssemblyInfo.cs
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.csproj.CoreCompileInputs.cache
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.sourcelink.json
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.dll
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\refint\Exercise-03.dll
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.pdb
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\Exercise-03.genruntimeconfig.cache
+E:\Git\Gpt-exercise-c#\GPT-Exercise\Exercise-03\Exercise-03\obj\Debug\net8.0\ref\Exercise-03.dll
