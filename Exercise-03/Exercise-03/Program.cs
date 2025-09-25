@@ -20,22 +20,26 @@ while (!isValied)
         case '+':
             Console.WriteLine();
             Console.WriteLine($"Sum is:{Add(num01, num02)}");
-            isValied = true;
+            Meno();
+            userInput = Console.ReadKey().KeyChar;
             break;
         case '-':
             Console.WriteLine();
             Console.WriteLine("Subtraction is:" + subtraction(num01, num02));
-            isValied = true;
+            Meno();
+            userInput = Console.ReadKey().KeyChar;
             break;
         case '*':
             Console.WriteLine();
             Console.WriteLine($"multiplication is:{multiplication(num01, num02)}");
-            isValied = true;
+            Meno();
+            userInput = Console.ReadKey().KeyChar;
             break;
         case '/':
             Console.WriteLine();
             Console.WriteLine($"division is :{division(num01, num02)}");
-            isValied = true;
+            Meno();
+            userInput = Console.ReadKey().KeyChar;
             break;
         case 'E':
         case 'e':
